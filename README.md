@@ -1,17 +1,5 @@
 # Figma Plugin Developer Skill for Claude Code
 
-<div align="center">
-
-```
- ████████ ██  ████   ██   ██   ████
- ██       ██ ██      ███ ███  ██  ██
- ██████   ██ ██  ██  ██████  ██████
- ██       ██ ██   ██ ██ █ ██ ██  ██
- ██       ██  ████   ██   ██ ██  ██
-
-     Plugin Developer Skill
-          for Claude Code
-```
 
 **Give Claude deep expertise in Figma plugin development**
 
